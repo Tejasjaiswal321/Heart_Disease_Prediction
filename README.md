@@ -5,4 +5,4 @@ Logistic Regression has been used for prediction of Target Variable - Is_Person_
 
 The data set includes 13 Feature Variables (X) like age,sex,etc. and 1 target variable indicating 1 if the person is diseased.
 
-Max Accuracy achieved = 80.48% via Logistic Regression.
+Max Accuracy achieved = 80.48% .
